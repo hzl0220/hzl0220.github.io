@@ -1,22 +1,11 @@
 {
-  "name": "Mickey",
+  "name": "Hanzhao Li Blog",
   "version": "0.0.1",
-  "description": "A minimal one-column, responsive theme for Jekyll",
-  "homepage": "http://vincentchan.github.io/mickey",
-  "author": "Vincent Chan",
+  "description": "Hanzhao Li's blog",
+  "homepage": "http://hzl0220.github.io",
+  "author": "Hanzhao Li",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vincentchan"
-  },
-  "devDependencies": {
-    "browser-sync": "~2.9.7",
-    "concurrent-transform": "^1.0.0",
-    "gulp": "^3.9.0",
-    "gulp-autoprefixer": "~3.0.2",
-    "gulp-image-resize": "^0.13.1",
-    "gulp-minify-css": "~1.2.1",
-    "gulp-postcss": "~6.0.0",
-    "gulp-rename": "~1.2.2",
-    "gulp-sass": "^2.0.4"
+    "url": "https://github.com/hzl0220/hzl0220.github.io"
   }
 }
